@@ -34,12 +34,13 @@ Me chamo Ruan Victor, tenho 18 anos e sou natural de Parelhas, Rio Grande do Nor
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="C++"
+    title="C++" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  
 />
+<!--
 <img 
     align="left" 
     alt="React"
@@ -47,14 +48,14 @@ Me chamo Ruan Victor, tenho 18 anos e sou natural de Parelhas, Rio Grande do Nor
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+/> -->
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="PostgreSQL" 
+    title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
@@ -64,6 +65,7 @@ Me chamo Ruan Victor, tenho 18 anos e sou natural de Parelhas, Rio Grande do Nor
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+<!--
 <img 
     align="left" 
     alt="Tailwind" 
@@ -103,7 +105,7 @@ Me chamo Ruan Victor, tenho 18 anos e sou natural de Parelhas, Rio Grande do Nor
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+/> -->
 <img 
     align="left" 
     alt="Git" 
